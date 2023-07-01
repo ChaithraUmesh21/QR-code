@@ -28,3 +28,5 @@ $ python QRCode.py
 ## Packaging the app to .exe extension
 python -m eel QRCode.py web --noconsole --onefile --icon barcode.ico<br>
 <B>Check <a href="https://github.com/samuelhwilliams/Eel">EEL</a> how to pack the application if this way isn't working</b>
+
+Chaithra
