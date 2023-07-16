@@ -31,3 +31,4 @@ my_options = {
 
 # eel starting html page with this size
 eel.start('index.html', size=(1000, 600))
+# Ok
