@@ -22,7 +22,7 @@ def generate_qr(data):
     print("QR code generation successful.")
     return "data:image/png;base64, " + encoded
 
-# custom options
+# custom options.
 my_options = {
     'mode': "chrome-app",
     'host': 'localhost',
